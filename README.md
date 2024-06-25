@@ -2,6 +2,17 @@
 
 Django project for managing newspapers and redactors in nespaper agency.
 
+
+## Check it out
+
+[Newspaper Agency project deployed to Render](https://newspaper-agency-xa7h.onrender.com/)
+```
+login: user
+password: user12345
+```
+
+
+
 ## Instalation
 
 Python 3 must be already installed
